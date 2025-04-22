@@ -37,6 +37,8 @@ This file defines the `Paddles` class, which creates and controls the paddles fo
 ## How to Run:
 1. Make sure you have Python 3.x installed on your computer.
 2. Download all the files.
-3. Run `main.py` from your terminal or an IDE.
-4. Enjoy the game!
+3. Run `main.py` from your terminal or an IDE
+
+   
+Enjoy the game!
 
