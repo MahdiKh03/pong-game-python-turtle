@@ -1,6 +1,6 @@
 
 # Pong Game in Python (Two Player Mode)
-![Pong Game Screenshot](pong_game.jpg)
+<img src="pong_game.JPG" width="500">
 This is a classic **Pong game** built using Python and the **Turtle graphics library**. The game features two paddles, a bouncing ball, and a scoreboard. Players control their paddles and try to score points by getting the ball past the opponent's paddle.
 
 ## Features:
