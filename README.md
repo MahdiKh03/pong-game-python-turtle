@@ -40,6 +40,3 @@ This file defines the `Paddles` class, which creates and controls the paddles fo
 3. Run `main.py` from your terminal or an IDE.
 4. Enjoy the game!
 
----
-
-This README provides clear, concise information and helps others understand and run your Pong game. You can add any additional features or changes as needed!
